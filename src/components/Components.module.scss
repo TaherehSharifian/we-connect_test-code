@@ -1,0 +1,25 @@
+.TableComponent {
+    width: 100%;
+    border-spacing: 0;
+
+    thead {
+        font-weight: bold;
+        background-color: #04213b;
+        color: #fff;
+
+        tr th {
+            padding: 10px;
+            text-align: left;
+        }
+    }
+
+    tbody {
+        tr:nth-child(even) {
+            background-color: #04213b2b;
+        }
+
+        tr td {
+            padding: 10px;
+        }
+    }
+}
