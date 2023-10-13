@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/we-connect_test-code/static/css/main.7f5fd893.css",
+    "main.js": "/we-connect_test-code/static/js/main.1e5e339b.js",
+    "index.html": "/we-connect_test-code/index.html",
+    "main.7f5fd893.css.map": "/we-connect_test-code/static/css/main.7f5fd893.css.map",
+    "main.1e5e339b.js.map": "/we-connect_test-code/static/js/main.1e5e339b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5fd893.css",
+    "static/js/main.1e5e339b.js"
+  ]
+}
